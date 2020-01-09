@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author basta
  */
 public class Duplicatesinarray {
-git
+
     public static void main(String[] args) {
 
         int[] arr1 = {1, 2, 3, 5, 1, 2, 3};
