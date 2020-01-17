@@ -1,6 +1,6 @@
 package com.imcs.practice;
 
-public class Main {
+public class Swap {
 
     public static void main(String[] args) {
         swap(4,2);

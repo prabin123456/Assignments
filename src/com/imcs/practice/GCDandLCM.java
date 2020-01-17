@@ -14,7 +14,7 @@ public class GCDandLCM {
         if (b == 0) {
             return a;
         }
-        return gcd(b, a % b);
+        return LCM(b, a % b);
     }
 
     public static int LCM(int a, int b){
